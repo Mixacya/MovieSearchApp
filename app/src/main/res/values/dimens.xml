@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="double_32dp">32dp</dimen>
+    <dimen name="default_16dp">16dp</dimen>
+    <dimen name="half_8dp">8dp</dimen>
+
+    <dimen name="icon_size">48dp</dimen>
+
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="year_text_size">16sp</dimen>
+</resources>

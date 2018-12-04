@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieSearchApp</string>
+
+    <string name="search_by_title">Place movie title</string>
+
+    <string name="common_save">Save</string>
+    <string name="common_saved">Saved to favorites</string>
+
+    <string name="nav_saved_movies">Saved movies</string>
+    <string name="nav_search_movies">Search movies by title</string>
+
+    <string name="close_navigation"></string>
+    <string name="open_navigation"></string>
+
+</resources>
